@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "model": "stabilityai/stable-diffusion-2-1",
+  "image_size": [
+    768,
+    768
+  ],
+  "colors": [
+    "red",
+    "yellow",
+    "blue",
+    "green",
+    "white",
+    "black",
+    "grey",
+    "orange",
+    "pink",
+    "brown"
+  ],
+  "objects": [
+    "ball",
+    "sneaker",
+    "butterfly",
+    "flower",
+    "clock",
+    "vase",
+    "toy car"
+  ],
+  "scenes": [
+    {
+      "name": "tree",
+      "preposition": "near",
+      "text": "a tree"
+    },
+    {
+      "name": "concrete ground",
+      "preposition": "on",
+      "text": "concrete ground"
+    },
+    {
+      "name": "wooden table",
+      "preposition": "on",
+      "text": "a wooden table"
+    },
+    {
+      "name": "grassy field",
+      "preposition": "on",
+      "text": "a grassy field"
+    },
+    {
+      "name": "sofa",
+      "preposition": "on",
+      "text": "a sofa"
+    }
+  ],
+  "seeds": {
+    "start": 0,
+    "count": 2000
+  },
+  "sampling": {
+    "scheduler": "ddim",
+    "steps": 50,
+    "guidance": 7.5,
+    "negative_prompt": ""
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "prompt": "A red ball on the left and a blue cube on the right, on a wooden table.",
+  "base_seed": 12345,
+  "patches": [
+    {"id": "red_137", "x": 16, "y": 50},
+    {"id": "blue_137", "x": 60, "y": 40}
+  ]
+}
+

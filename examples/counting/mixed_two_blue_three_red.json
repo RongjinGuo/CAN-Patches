@@ -1,0 +1,23 @@
+{
+  "base_seed": 204,
+  "scene": "on the grass",
+  "cases": [
+    {
+      "name": "two_blue_three_red",
+      "groups": [
+        {
+          "color": "blue",
+          "count": 2,
+          "object": "golf ball",
+          "plural": "golf balls"
+        },
+        {
+          "color": "red",
+          "count": 3,
+          "object": "ball",
+          "plural": "balls"
+        }
+      ]
+    }
+  ]
+}

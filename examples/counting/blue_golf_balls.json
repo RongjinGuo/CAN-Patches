@@ -1,0 +1,61 @@
+{
+  "base_seed": 204,
+  "scene": "on a wooden table",
+  "cases": [
+    {
+      "name": "blue_1",
+      "groups": [
+        {
+          "color": "blue",
+          "count": 1,
+          "object": "golf ball",
+          "plural": "golf balls"
+        }
+      ]
+    },
+    {
+      "name": "blue_2",
+      "groups": [
+        {
+          "color": "blue",
+          "count": 2,
+          "object": "golf ball",
+          "plural": "golf balls"
+        }
+      ]
+    },
+    {
+      "name": "blue_3",
+      "groups": [
+        {
+          "color": "blue",
+          "count": 3,
+          "object": "golf ball",
+          "plural": "golf balls"
+        }
+      ]
+    },
+    {
+      "name": "blue_4",
+      "groups": [
+        {
+          "color": "blue",
+          "count": 4,
+          "object": "golf ball",
+          "plural": "golf balls"
+        }
+      ]
+    },
+    {
+      "name": "blue_5",
+      "groups": [
+        {
+          "color": "blue",
+          "count": 5,
+          "object": "golf ball",
+          "plural": "golf balls"
+        }
+      ]
+    }
+  ]
+}

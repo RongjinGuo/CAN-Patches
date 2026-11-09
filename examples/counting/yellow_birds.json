@@ -1,0 +1,61 @@
+{
+  "base_seed": 204,
+  "scene": "on a branch",
+  "cases": [
+    {
+      "name": "yellow_1",
+      "groups": [
+        {
+          "color": "yellow",
+          "count": 1,
+          "object": "bird",
+          "plural": "birds"
+        }
+      ]
+    },
+    {
+      "name": "yellow_2",
+      "groups": [
+        {
+          "color": "yellow",
+          "count": 2,
+          "object": "bird",
+          "plural": "birds"
+        }
+      ]
+    },
+    {
+      "name": "yellow_3",
+      "groups": [
+        {
+          "color": "yellow",
+          "count": 3,
+          "object": "bird",
+          "plural": "birds"
+        }
+      ]
+    },
+    {
+      "name": "yellow_4",
+      "groups": [
+        {
+          "color": "yellow",
+          "count": 4,
+          "object": "bird",
+          "plural": "birds"
+        }
+      ]
+    },
+    {
+      "name": "yellow_5",
+      "groups": [
+        {
+          "color": "yellow",
+          "count": 5,
+          "object": "bird",
+          "plural": "birds"
+        }
+      ]
+    }
+  ]
+}

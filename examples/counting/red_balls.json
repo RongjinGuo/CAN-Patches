@@ -1,0 +1,61 @@
+{
+  "base_seed": 204,
+  "scene": "on a wooden table",
+  "cases": [
+    {
+      "name": "red_1",
+      "groups": [
+        {
+          "color": "red",
+          "count": 1,
+          "object": "ball",
+          "plural": "balls"
+        }
+      ]
+    },
+    {
+      "name": "red_2",
+      "groups": [
+        {
+          "color": "red",
+          "count": 2,
+          "object": "ball",
+          "plural": "balls"
+        }
+      ]
+    },
+    {
+      "name": "red_3",
+      "groups": [
+        {
+          "color": "red",
+          "count": 3,
+          "object": "ball",
+          "plural": "balls"
+        }
+      ]
+    },
+    {
+      "name": "red_4",
+      "groups": [
+        {
+          "color": "red",
+          "count": 4,
+          "object": "ball",
+          "plural": "balls"
+        }
+      ]
+    },
+    {
+      "name": "red_5",
+      "groups": [
+        {
+          "color": "red",
+          "count": 5,
+          "object": "ball",
+          "plural": "balls"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "application": "add_object",
+  "target_prompt": "A girl holding a red apple and wearing a red hat.",
+  "patches": [
+    {
+      "id": "red_137",
+      "x": 36,
+      "y": 0
+    }
+  ],
+  "reset_region": true,
+  "preserve_steps": "0:9,19,24,29"
+}

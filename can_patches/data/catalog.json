@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "model_id": "stabilityai/stable-diffusion-2-1",
+  "latent_shape": [
+    1,
+    4,
+    96,
+    96
+  ],
+  "source_rng_device": "cuda",
+  "source_dtype": "float16",
+  "bbox_format": "[x0,y0,x1,y1], half-open latent coordinates",
+  "patches": [
+    {
+      "id": "red_137",
+      "color": "red",
+      "seed": 137,
+      "bbox": [
+        22,
+        56,
+        44,
+        78
+      ]
+    },
+    {
+      "id": "blue_137",
+      "color": "blue",
+      "seed": 137,
+      "bbox": [
+        60,
+        40,
+        82,
+        62
+      ]
+    },
+    {
+      "id": "red_117",
+      "color": "red",
+      "seed": 117,
+      "bbox": [
+        34,
+        60,
+        58,
+        84
+      ]
+    },
+    {
+      "id": "yellow_117",
+      "color": "yellow",
+      "seed": 117,
+      "bbox": [
+        69,
+        41,
+        93,
+        65
+      ]
+    },
+    {
+      "id": "white_115",
+      "color": "white",
+      "seed": 115,
+      "bbox": [
+        0,
+        36,
+        24,
+        60
+      ]
+    },
+    {
+      "id": "orange_130",
+      "color": "orange",
+      "seed": 130,
+      "bbox": [
+        1,
+        32,
+        25,
+        56
+      ]
+    },
+    {
+      "id": "red_134",
+      "color": "red",
+      "seed": 134,
+      "bbox": [
+        72,
+        49,
+        96,
+        73
+      ]
+    },
+    {
+      "id": "yellow_144",
+      "color": "yellow",
+      "seed": 144,
+      "bbox": [
+        70,
+        29,
+        94,
+        53
+      ]
+    },
+    {
+      "id": "blue_144",
+      "color": "blue",
+      "seed": 144,
+      "bbox": [
+        37,
+        30,
+        61,
+        54
+      ]
+    },
+    {
+      "id": "blue_121",
+      "color": "blue",
+      "seed": 121,
+      "bbox": [
+        70,
+        30,
+        94,
+        54
+      ]
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "schema_version": 1,
+  "model_id": "stabilityai/stable-diffusion-2-1",
+  "latent_shape": [
+    1,
+    4,
+    96,
+    96
+  ],
+  "patch_size": [
+    24,
+    24
+  ],
+  "candidates": [
+    {
+      "patch_id": "red_137_24",
+      "color": "red",
+      "seed": 137,
+      "bbox": [
+        21,
+        55,
+        45,
+        79
+      ],
+      "position_in_generated_image": "lower left"
+    },
+    {
+      "patch_id": "red_220_24",
+      "color": "red",
+      "seed": 220,
+      "bbox": [
+        27,
+        46,
+        51,
+        70
+      ],
+      "position_in_generated_image": "lower middle, slightly left"
+    },
+    {
+      "patch_id": "red_117_24",
+      "color": "red",
+      "seed": 117,
+      "bbox": [
+        34,
+        60,
+        58,
+        84
+      ],
+      "position_in_generated_image": "lower middle"
+    },
+    {
+      "patch_id": "blue_137_24",
+      "color": "blue",
+      "seed": 137,
+      "bbox": [
+        59,
+        39,
+        83,
+        63
+      ],
+      "position_in_generated_image": "middle right"
+    },
+    {
+      "patch_id": "blue_154_24",
+      "color": "blue",
+      "seed": 154,
+      "bbox": [
+        61,
+        30,
+        85,
+        54
+      ],
+      "position_in_generated_image": "middle right"
+    },
+    {
+      "patch_id": "blue_143_24",
+      "color": "blue",
+      "seed": 143,
+      "bbox": [
+        20,
+        58,
+        44,
+        82
+      ],
+      "position_in_generated_image": "lower left"
+    },
+    {
+      "patch_id": "yellow_110_24",
+      "color": "yellow",
+      "seed": 110,
+      "bbox": [
+        34,
+        56,
+        58,
+        80
+      ],
+      "position_in_generated_image": "lower middle"
+    },
+    {
+      "patch_id": "yellow_117_24",
+      "color": "yellow",
+      "seed": 117,
+      "bbox": [
+        69,
+        41,
+        93,
+        65
+      ],
+      "position_in_generated_image": "right"
+    },
+    {
+      "patch_id": "yellow_115_24",
+      "color": "yellow",
+      "seed": 115,
+      "bbox": [
+        6,
+        39,
+        30,
+        63
+      ],
+      "position_in_generated_image": "left"
+    },
+    {
+      "patch_id": "green_172_24",
+      "color": "green",
+      "seed": 172,
+      "bbox": [
+        16,
+        43,
+        40,
+        67
+      ],
+      "position_in_generated_image": "lower middle left"
+    },
+    {
+      "patch_id": "green_247_24",
+      "color": "green",
+      "seed": 247,
+      "bbox": [
+        33,
+        22,
+        57,
+        46
+      ],
+      "position_in_generated_image": "upper middle"
+    },
+    {
+      "patch_id": "pink_179_24",
+      "color": "pink",
+      "seed": 179,
+      "bbox": [
+        33,
+        30,
+        57,
+        54
+      ],
+      "position_in_generated_image": "center"
+    },
+    {
+      "patch_id": "pink_128_24",
+      "color": "pink",
+      "seed": 128,
+      "bbox": [
+        49,
+        57,
+        73,
+        81
+      ],
+      "position_in_generated_image": "lower middle right"
+    },
+    {
+      "patch_id": "pink_137_24",
+      "color": "pink",
+      "seed": 137,
+      "bbox": [
+        20,
+        48,
+        44,
+        72
+      ],
+      "position_in_generated_image": "lower left"
+    },
+    {
+      "patch_id": "purple_342_24",
+      "color": "purple",
+      "seed": 342,
+      "bbox": [
+        26,
+        42,
+        50,
+        66
+      ],
+      "position_in_generated_image": "center left"
+    },
+    {
+      "patch_id": "purple_157_24",
+      "color": "purple",
+      "seed": 157,
+      "bbox": [
+        36,
+        46,
+        60,
+        70
+      ],
+      "position_in_generated_image": "lower middle"
+    },
+    {
+      "patch_id": "orange_140_24",
+      "color": "orange",
+      "seed": 140,
+      "bbox": [
+        48,
+        58,
+        72,
+        82
+      ],
+      "position_in_generated_image": "lower middle right"
+    },
+    {
+      "patch_id": "orange_268_24",
+      "color": "orange",
+      "seed": 268,
+      "bbox": [
+        36,
+        57,
+        60,
+        81
+      ],
+      "position_in_generated_image": "lower middle"
+    },
+    {
+      "patch_id": "brown_240_24",
+      "color": "brown",
+      "seed": 240,
+      "bbox": [
+        32,
+        22,
+        56,
+        46
+      ],
+      "position_in_generated_image": "center"
+    },
+    {
+      "patch_id": "brown_382_24",
+      "color": "brown",
+      "seed": 382,
+      "bbox": [
+        32,
+        40,
+        56,
+        64
+      ],
+      "position_in_generated_image": "center"
+    },
+    {
+      "patch_id": "white_179_24",
+      "color": "white",
+      "seed": 179,
+      "bbox": [
+        24,
+        36,
+        48,
+        60
+      ],
+      "position_in_generated_image": "center left"
+    },
+    {
+      "patch_id": "white_115_24",
+      "color": "white",
+      "seed": 115,
+      "bbox": [
+        0,
+        36,
+        24,
+        60
+      ],
+      "position_in_generated_image": "left"
+    },
+    {
+      "patch_id": "black_133_24",
+      "color": "black",
+      "seed": 133,
+      "bbox": [
+        50,
+        40,
+        74,
+        64
+      ],
+      "position_in_generated_image": "center right"
+    },
+    {
+      "patch_id": "black_240_24",
+      "color": "black",
+      "seed": 240,
+      "bbox": [
+        33,
+        36,
+        57,
+        60
+      ],
+      "position_in_generated_image": "center"
+    },
+    {
+      "patch_id": "gray_205_24",
+      "color": "gray",
+      "seed": 205,
+      "bbox": [
+        32,
+        26,
+        56,
+        50
+      ],
+      "position_in_generated_image": "center left"
+    },
+    {
+      "patch_id": "gray_391_24",
+      "color": "gray",
+      "seed": 391,
+      "bbox": [
+        31,
+        32,
+        55,
+        56
+      ],
+      "position_in_generated_image": "center"
+    }
+  ]
+}

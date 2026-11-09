@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "model": "stabilityai/stable-diffusion-2-1",
+  "image_size": [
+    768,
+    768
+  ],
+  "colors": [
+    "red",
+    "yellow",
+    "blue"
+  ],
+  "objects": [
+    "ball",
+    "flower"
+  ],
+  "scenes": [
+    {
+      "name": "wooden table",
+      "preposition": "on",
+      "text": "a wooden table"
+    },
+    {
+      "name": "grassy field",
+      "preposition": "on",
+      "text": "a grassy field"
+    }
+  ],
+  "seeds": {
+    "start": 137,
+    "count": 2
+  },
+  "sampling": {
+    "scheduler": "ddim",
+    "steps": 50,
+    "guidance": 7.5,
+    "negative_prompt": ""
+  }
+}

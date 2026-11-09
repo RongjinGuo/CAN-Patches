@@ -1,0 +1,13 @@
+{
+  "application": "replace_object",
+  "target_prompt": "A girl holding an orange cat.",
+  "patches": [
+    {
+      "id": "orange_130",
+      "x": 29,
+      "y": 60
+    }
+  ],
+  "reset_region": true,
+  "reset_seed": 118
+}

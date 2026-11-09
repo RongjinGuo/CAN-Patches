@@ -1,0 +1,12 @@
+{
+  "application": "recolor",
+  "target_prompt": "A girl holding a blue apple.",
+  "patches": [
+    {
+      "id": "blue_137",
+      "x": 30,
+      "y": 59
+    }
+  ],
+  "reset_region": false
+}

@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "can-patches"
+version = "0.1.0"
+description = "Initial-noise patch extraction and composition for Stable Diffusion 2.1"
+readme = "README.md"
+license = {file = "LICENSE"}
+requires-python = ">=3.10"
+dependencies = [
+    "torch>=2.2,<3",
+    "safetensors>=0.4.3,<1",
+    "Pillow>=10.1,<13",
+    "numpy>=1.24,<3",
+]
+
+[project.optional-dependencies]
+inference = [
+    "diffusers==0.33.1",
+    "transformers==4.51.3",
+    "huggingface-hub>=0.27,<1",
+    "accelerate>=0.26,<2",
+]
+
+[project.scripts]
+can-patches = "can_patches.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["can_patches*"]
+
+[tool.setuptools.package-data]
+can_patches = ["data/*.json"]

@@ -1,0 +1,201 @@
+type,colors,objects,scene,prompt
+multi-color-2,"['yellow', 'green']","['clock', 'vase']",on a rock,a yellow clock and a green vase on a rock.
+multi-color-2,"['green', 'brown']","['book', 'hat']",in the forest,a green book and a brown hat in the forest.
+multi-color-2,"['white', 'brown']","['lamp', 'ball']",in the forest,a white lamp and a brown ball in the forest.
+multi-color-2,"['pink', 'green']","['flower', 'vase']",on the ground,a pink flower and a green vase on the ground.
+multi-color-2,"['brown', 'blue']","['lamp', 'bottle']",on a rock,a brown lamp and a blue bottle on a rock.
+multi-color-2,"['black', 'brown']","['flower', 'box']",in the snow,a black flower and a brown box in the snow.
+multi-color-2,"['blue', 'brown']","['ball', 'shoe']",on a rock,a blue ball and a brown shoe on a rock.
+multi-color-2,"['black', 'white']","['vase', 'clock']",on a rock,a black vase and a white clock on a rock.
+multi-color-2,"['orange', 'brown']","['cake', 'book']",in a garden,a orange cake and a brown book in a garden.
+multi-color-2,"['red', 'red']","['apple', 'clock']",on the ground,a red apple and a red clock on the ground.
+multi-color-2,"['black', 'brown']","['vase', 'cake']",in the snow,a black vase and a brown cake in the snow.
+multi-color-2,"['black', 'yellow']","['backpack', 'cup']",in the snow,a black backpack and a yellow cup in the snow.
+multi-color-2,"['green', 'pink']","['apple', 'teddy bear']",on a wooden table,a green apple and a pink teddy bear on a wooden table.
+multi-color-3,"['brown', 'brown', 'black']","['box', 'cake', 'backpack']",on the beach,"a brown box, a brown cake, and a black backpack on the beach."
+multi-color-3,"['blue', 'white', 'brown']","['bottle', 'lamp', 'hat']",in the snow,"a blue bottle, a white lamp, and a brown hat in the snow."
+multi-color-2,"['red', 'red']","['cup', 'clock']",on the ground,a red cup and a red clock on the ground.
+multi-color-2,"['red', 'red']","['backpack', 'shoe']",on the floor,a red backpack and a red shoe on the floor.
+multi-color-2,"['yellow', 'yellow']","['cup', 'lamp']",on the beach,a yellow cup and a yellow lamp on the beach.
+multi-color-2,"['brown', 'red']","['cake', 'bottle']",on a shelf,a brown cake and a red bottle on a shelf.
+multi-color-2,"['orange', 'white']","['ball', 'flower']",on a rock,a orange ball and a white flower on a rock.
+multi-color-2,"['black', 'black']","['book', 'hat']",on the beach,a black book and a black hat on the beach.
+multi-color-2,"['blue', 'white']","['bottle', 'teddy bear']",on a shelf,a blue bottle and a white teddy bear on a shelf.
+multi-color-2,"['pink', 'brown']","['backpack', 'box']",on the ground,a pink backpack and a brown box on the ground.
+multi-color-2,"['pink', 'red']","['cake', 'apple']",on the floor,a pink cake and a red apple on the floor.
+multi-color-3,"['grey', 'brown', 'brown']","['lamp', 'shoe', 'hat']",on the floor,"a grey lamp, a brown shoe, and a brown hat on the floor."
+multi-color-2,"['yellow', 'red']","['apple', 'shoe']",on the ground,a yellow apple and a red shoe on the ground.
+multi-color-2,"['grey', 'black']","['book', 'cup']",on the ground,a grey book and a black cup on the ground.
+multi-color-3,"['white', 'white', 'red']","['backpack', 'clock', 'book']",on the ground,"a white backpack, a white clock, and a red book on the ground."
+multi-color-2,"['green', 'yellow']","['box', 'apple']",on the floor,a green box and a yellow apple on the floor.
+multi-color-2,"['blue', 'brown']","['lamp', 'bottle']",on the floor,a blue lamp and a brown bottle on the floor.
+multi-color-2,"['black', 'black']","['flower', 'box']",on the beach,a black flower and a black box on the beach.
+multi-color-2,"['brown', 'black']","['clock', 'lamp']",on a rock,a brown clock and a black lamp on a rock.
+multi-color-2,"['black', 'brown']","['shoe', 'lamp']",in the snow,a black shoe and a brown lamp in the snow.
+multi-color-2,"['blue', 'grey']","['ball', 'shoe']",on a wooden table,a blue ball and a grey shoe on a wooden table.
+multi-color-3,"['red', 'green', 'black']","['apple', 'shoe', 'flower']",in the street,"a red apple, a green shoe, and a black flower in the street."
+multi-color-2,"['pink', 'white']","['cake', 'bottle']",on the ground,a pink cake and a white bottle on the ground.
+multi-color-2,"['brown', 'blue']","['lamp', 'hat']",on a shelf,a brown lamp and a blue hat on a shelf.
+multi-color-2,"['grey', 'pink']","['teddy bear', 'cake']",on the beach,a grey teddy bear and a pink cake on the beach.
+multi-color-2,"['green', 'white']","['bottle', 'hat']",on the floor,a green bottle and a white hat on the floor.
+multi-color-2,"['orange', 'brown']","['shoe', 'vase']",on the ground,a orange shoe and a brown vase on the ground.
+multi-color-2,"['white', 'orange']","['teddy bear', 'flower']",on the beach,a white teddy bear and a orange flower on the beach.
+multi-color-2,"['red', 'brown']","['backpack', 'clock']",on the floor,a red backpack and a brown clock on the floor.
+multi-color-2,"['green', 'black']","['bottle', 'vase']",on the floor,a green bottle and a black vase on the floor.
+multi-color-2,"['orange', 'grey']","['backpack', 'ball']",on a wooden table,a orange backpack and a grey ball on a wooden table.
+multi-color-2,"['black', 'pink']","['book', 'hat']",in the street,a black book and a pink hat in the street.
+multi-color-2,"['red', 'white']","['ball', 'shoe']",on a wooden table,a red ball and a white shoe on a wooden table.
+multi-color-2,"['blue', 'orange']","['cup', 'book']",on a shelf,a blue cup and a orange book on a shelf.
+multi-color-2,"['white', 'yellow']","['hat', 'lamp']",in the snow,a white hat and a yellow lamp in the snow.
+multi-color-3,"['yellow', 'orange', 'green']","['vase', 'cake', 'teddy bear']",on a shelf,"a yellow vase, a orange cake, and a green teddy bear on a shelf."
+multi-color-2,"['brown', 'pink']","['lamp', 'flower']",in the street,a brown lamp and a pink flower in the street.
+multi-color-2,"['brown', 'green']","['ball', 'bottle']",on a shelf,a brown ball and a green bottle on a shelf.
+multi-color-3,"['brown', 'black', 'grey']","['lamp', 'cup', 'hat']",in a garden,"a brown lamp, a black cup, and a grey hat in a garden."
+multi-color-2,"['brown', 'grey']","['vase', 'cup']",on the ground,a brown vase and a grey cup on the ground.
+multi-color-2,"['orange', 'black']","['book', 'vase']",in the street,a orange book and a black vase in the street.
+multi-color-3,"['green', 'red', 'green']","['backpack', 'cup', 'box']",in a garden,"a green backpack, a red cup, and a green box in a garden."
+multi-color-2,"['pink', 'green']","['book', 'apple']",on the floor,a pink book and a green apple on the floor.
+multi-color-3,"['pink', 'pink', 'pink']","['vase', 'flower', 'teddy bear']",in the snow,"a pink vase, a pink flower, and a pink teddy bear in the snow."
+multi-color-2,"['pink', 'blue']","['vase', 'shoe']",in the street,a pink vase and a blue shoe in the street.
+multi-color-2,"['red', 'yellow']","['flower', 'lamp']",on the ground,a red flower and a yellow lamp on the ground.
+multi-color-2,"['pink', 'brown']","['backpack', 'hat']",in the snow,a pink backpack and a brown hat in the snow.
+multi-color-2,"['white', 'grey']","['box', 'teddy bear']",in the snow,a white box and a grey teddy bear in the snow.
+multi-color-2,"['green', 'brown']","['flower', 'lamp']",in a garden,a green flower and a brown lamp in a garden.
+multi-color-3,"['grey', 'yellow', 'blue']","['lamp', 'cake', 'bottle']",in the street,"a grey lamp, a yellow cake, and a blue bottle in the street."
+multi-color-2,"['black', 'grey']","['cup', 'teddy bear']",in a garden,a black cup and a grey teddy bear in a garden.
+multi-color-2,"['black', 'yellow']","['flower', 'cup']",in a garden,a black flower and a yellow cup in a garden.
+multi-color-3,"['grey', 'black', 'red']","['hat', 'book', 'cake']",in a garden,"a grey hat, a black book, and a red cake in a garden."
+multi-color-3,"['blue', 'black', 'yellow']","['vase', 'hat', 'clock']",on the beach,"a blue vase, a black hat, and a yellow clock on the beach."
+multi-color-2,"['red', 'blue']","['apple', 'clock']",in the snow,a red apple and a blue clock in the snow.
+multi-color-3,"['blue', 'green', 'white']","['bottle', 'teddy bear', 'lamp']",on the beach,"a blue bottle, a green teddy bear, and a white lamp on the beach."
+multi-color-2,"['grey', 'yellow']","['book', 'ball']",on the ground,a grey book and a yellow ball on the ground.
+multi-color-3,"['red', 'blue', 'brown']","['bottle', 'clock', 'teddy bear']",in the street,"a red bottle, a blue clock, and a brown teddy bear in the street."
+multi-color-2,"['brown', 'pink']","['hat', 'box']",in the forest,a brown hat and a pink box in the forest.
+multi-color-2,"['white', 'green']","['backpack', 'apple']",in a garden,a white backpack and a green apple in a garden.
+multi-color-2,"['orange', 'grey']","['shoe', 'teddy bear']",in the snow,a orange shoe and a grey teddy bear in the snow.
+multi-color-2,"['yellow', 'green']","['clock', 'bottle']",in the forest,a yellow clock and a green bottle in the forest.
+multi-color-2,"['blue', 'black']","['hat', 'vase']",in the snow,a blue hat and a black vase in the snow.
+multi-color-3,"['pink', 'orange', 'yellow']","['hat', 'book', 'teddy bear']",in a garden,"a pink hat, a orange book, and a yellow teddy bear in a garden."
+multi-color-2,"['yellow', 'pink']","['apple', 'cup']",on the beach,a yellow apple and a pink cup on the beach.
+multi-color-2,"['white', 'white']","['lamp', 'cup']",in the street,a white lamp and a white cup in the street.
+multi-color-2,"['white', 'white']","['bottle', 'backpack']",in the street,a white bottle and a white backpack in the street.
+multi-color-2,"['yellow', 'blue']","['book', 'clock']",on the ground,a yellow book and a blue clock on the ground.
+multi-color-2,"['grey', 'yellow']","['lamp', 'box']",on the beach,a grey lamp and a yellow box on the beach.
+multi-color-2,"['yellow', 'blue']","['cake', 'bottle']",on a rock,a yellow cake and a blue bottle on a rock.
+multi-color-2,"['brown', 'yellow']","['lamp', 'flower']",on the beach,a brown lamp and a yellow flower on the beach.
+multi-color-2,"['white', 'brown']","['teddy bear', 'vase']",in the snow,a white teddy bear and a brown vase in the snow.
+multi-color-2,"['grey', 'red']","['backpack', 'flower']",in a garden,a grey backpack and a red flower in a garden.
+multi-color-3,"['blue', 'yellow', 'white']","['vase', 'flower', 'teddy bear']",on a wooden table,"a blue vase, a yellow flower, and a white teddy bear on a wooden table."
+multi-color-2,"['yellow', 'red']","['book', 'apple']",in the snow,a yellow book and a red apple in the snow.
+multi-color-2,"['red', 'orange']","['cake', 'ball']",on the floor,a red cake and a orange ball on the floor.
+multi-color-2,"['blue', 'white']","['flower', 'backpack']",in the street,a blue flower and a white backpack in the street.
+multi-color-2,"['red', 'green']","['backpack', 'cake']",in the street,a red backpack and a green cake in the street.
+multi-color-3,"['white', 'white', 'green']","['teddy bear', 'flower', 'vase']",on a shelf,"a white teddy bear, a white flower, and a green vase on a shelf."
+multi-color-2,"['pink', 'red']","['flower', 'cup']",on a wooden table,a pink flower and a red cup on a wooden table.
+multi-color-2,"['green', 'yellow']","['apple', 'clock']",on the floor,a green apple and a yellow clock on the floor.
+multi-color-3,"['white', 'orange', 'yellow']","['cup', 'shoe', 'book']",in the forest,"a white cup, a orange shoe, and a yellow book in the forest."
+multi-color-2,"['white', 'white']","['bottle', 'lamp']",in the snow,a white bottle and a white lamp in the snow.
+multi-color-2,"['yellow', 'pink']","['apple', 'teddy bear']",in the snow,a yellow apple and a pink teddy bear in the snow.
+multi-color-3,"['white', 'yellow', 'white']","['backpack', 'box', 'cup']",on a shelf,"a white backpack, a yellow box, and a white cup on a shelf."
+multi-color-2,"['blue', 'orange']","['cup', 'cake']",on the ground,a blue cup and a orange cake on the ground.
+multi-color-3,"['grey', 'red', 'white']","['teddy bear', 'hat', 'flower']",on a shelf,"a grey teddy bear, a red hat, and a white flower on a shelf."
+multi-color-2,"['red', 'grey']","['vase', 'hat']",on a wooden table,a red vase and a grey hat on a wooden table.
+multi-color-2,"['green', 'white']","['ball', 'teddy bear']",on a shelf,a green ball and a white teddy bear on a shelf.
+multi-color-2,"['brown', 'blue']","['bottle', 'cup']",in the snow,a brown bottle and a blue cup in the snow.
+multi-color-2,"['pink', 'white']","['cup', 'box']",on a wooden table,a pink cup and a white box on a wooden table.
+multi-color-2,"['blue', 'black']","['clock', 'lamp']",in a garden,a blue clock and a black lamp in a garden.
+multi-color-3,"['green', 'orange', 'blue']","['apple', 'ball', 'box']",on the floor,"a green apple, a orange ball, and a blue box on the floor."
+multi-color-2,"['yellow', 'white']","['teddy bear', 'flower']",on a wooden table,a yellow teddy bear and a white flower on a wooden table.
+multi-color-2,"['white', 'white']","['cup', 'lamp']",on a wooden table,a white cup and a white lamp on a wooden table.
+multi-color-2,"['brown', 'yellow']","['book', 'vase']",in a garden,a brown book and a yellow vase in a garden.
+multi-color-2,"['white', 'green']","['cup', 'box']",on the ground,a white cup and a green box on the ground.
+multi-color-2,"['brown', 'red']","['box', 'hat']",in the snow,a brown box and a red hat in the snow.
+multi-color-2,"['green', 'brown']","['hat', 'book']",on the floor,a green hat and a brown book on the floor.
+multi-color-2,"['black', 'pink']","['ball', 'backpack']",on a rock,a black ball and a pink backpack on a rock.
+multi-color-3,"['brown', 'brown', 'grey']","['backpack', 'shoe', 'ball']",on a wooden table,"a brown backpack, a brown shoe, and a grey ball on a wooden table."
+multi-color-2,"['orange', 'black']","['box', 'vase']",on a shelf,a orange box and a black vase on a shelf.
+multi-color-2,"['blue', 'brown']","['backpack', 'ball']",in the snow,a blue backpack and a brown ball in the snow.
+multi-color-2,"['orange', 'white']","['hat', 'cup']",on a shelf,a orange hat and a white cup on a shelf.
+multi-color-2,"['blue', 'black']","['clock', 'book']",in the forest,a blue clock and a black book in the forest.
+multi-color-2,"['grey', 'black']","['box', 'cup']",in the street,a grey box and a black cup in the street.
+multi-color-2,"['green', 'white']","['bottle', 'ball']",on the ground,a green bottle and a white ball on the ground.
+multi-color-2,"['black', 'brown']","['lamp', 'ball']",on the beach,a black lamp and a brown ball on the beach.
+multi-color-3,"['green', 'green', 'white']","['cake', 'apple', 'teddy bear']",in a garden,"a green cake, a green apple, and a white teddy bear in a garden."
+multi-color-2,"['pink', 'blue']","['box', 'cup']",in the street,a pink box and a blue cup in the street.
+multi-color-2,"['yellow', 'orange']","['flower', 'ball']",in the snow,a yellow flower and a orange ball in the snow.
+multi-color-2,"['yellow', 'orange']","['backpack', 'flower']",on the beach,a yellow backpack and a orange flower on the beach.
+multi-color-2,"['white', 'pink']","['clock', 'box']",on a shelf,a white clock and a pink box on a shelf.
+multi-color-2,"['red', 'red']","['backpack', 'shoe']",on a wooden table,a red backpack and a red shoe on a wooden table.
+multi-color-3,"['brown', 'red', 'pink']","['cake', 'shoe', 'box']",on the floor,"a brown cake, a red shoe, and a pink box on the floor."
+multi-color-2,"['pink', 'brown']","['backpack', 'book']",on a rock,a pink backpack and a brown book on a rock.
+multi-color-2,"['pink', 'blue']","['teddy bear', 'book']",on the beach,a pink teddy bear and a blue book on the beach.
+multi-color-2,"['grey', 'red']","['book', 'bottle']",on a rock,a grey book and a red bottle on a rock.
+multi-color-3,"['green', 'pink', 'pink']","['flower', 'hat', 'ball']",on a wooden table,"a green flower, a pink hat, and a pink ball on a wooden table."
+multi-color-2,"['yellow', 'orange']","['cup', 'box']",on the floor,a yellow cup and a orange box on the floor.
+multi-color-2,"['red', 'red']","['bottle', 'hat']",in a garden,a red bottle and a red hat in a garden.
+multi-color-2,"['black', 'green']","['lamp', 'apple']",in the street,a black lamp and a green apple in the street.
+multi-color-3,"['black', 'white', 'yellow']","['lamp', 'cake', 'apple']",on a shelf,"a black lamp, a white cake, and a yellow apple on a shelf."
+multi-color-2,"['blue', 'white']","['lamp', 'backpack']",on a rock,a blue lamp and a white backpack on a rock.
+multi-color-2,"['orange', 'orange']","['ball', 'book']",on the ground,a orange ball and a orange book on the ground.
+multi-color-3,"['black', 'orange', 'yellow']","['ball', 'flower', 'teddy bear']",in a garden,"a black ball, a orange flower, and a yellow teddy bear in a garden."
+multi-color-2,"['yellow', 'white']","['apple', 'vase']",in the snow,a yellow apple and a white vase in the snow.
+multi-color-2,"['blue', 'blue']","['cup', 'cake']",on a wooden table,a blue cup and a blue cake on a wooden table.
+multi-color-2,"['grey', 'pink']","['cup', 'backpack']",in a garden,a grey cup and a pink backpack in a garden.
+multi-color-2,"['orange', 'brown']","['ball', 'hat']",on the floor,a orange ball and a brown hat on the floor.
+multi-color-2,"['green', 'green']","['hat', 'bottle']",on a wooden table,a green hat and a green bottle on a wooden table.
+multi-color-2,"['yellow', 'green']","['lamp', 'ball']",on a shelf,a yellow lamp and a green ball on a shelf.
+multi-color-2,"['orange', 'black']","['hat', 'backpack']",on the beach,a orange hat and a black backpack on the beach.
+multi-color-2,"['red', 'black']","['flower', 'lamp']",on the beach,a red flower and a black lamp on the beach.
+multi-color-2,"['red', 'green']","['apple', 'vase']",in the forest,a red apple and a green vase in the forest.
+multi-color-2,"['brown', 'brown']","['box', 'ball']",in the snow,a brown box and a brown ball in the snow.
+multi-color-2,"['brown', 'grey']","['lamp', 'teddy bear']",on the floor,a brown lamp and a grey teddy bear on the floor.
+multi-color-2,"['grey', 'white']","['backpack', 'vase']",in the snow,a grey backpack and a white vase in the snow.
+multi-color-2,"['blue', 'brown']","['flower', 'clock']",on the beach,a blue flower and a brown clock on the beach.
+multi-color-2,"['pink', 'blue']","['teddy bear', 'lamp']",on the floor,a pink teddy bear and a blue lamp on the floor.
+multi-color-3,"['grey', 'yellow', 'brown']","['backpack', 'ball', 'bottle']",on a shelf,"a grey backpack, a yellow ball, and a brown bottle on a shelf."
+multi-color-2,"['blue', 'brown']","['bottle', 'lamp']",in the snow,a blue bottle and a brown lamp in the snow.
+multi-color-3,"['blue', 'white', 'pink']","['shoe', 'hat', 'flower']",on the ground,"a blue shoe, a white hat, and a pink flower on the ground."
+multi-color-2,"['yellow', 'pink']","['flower', 'teddy bear']",on a wooden table,a yellow flower and a pink teddy bear on a wooden table.
+multi-color-3,"['brown', 'red', 'red']","['bottle', 'vase', 'ball']",in the forest,"a brown bottle, a red vase, and a red ball in the forest."
+multi-color-2,"['red', 'yellow']","['cake', 'lamp']",in the forest,a red cake and a yellow lamp in the forest.
+multi-color-2,"['blue', 'brown']","['vase', 'teddy bear']",in a garden,a blue vase and a brown teddy bear in a garden.
+multi-color-3,"['white', 'grey', 'white']","['lamp', 'cup', 'book']",in the snow,"a white lamp, a grey cup, and a white book in the snow."
+multi-color-2,"['blue', 'black']","['cake', 'ball']",in the forest,a blue cake and a black ball in the forest.
+multi-color-2,"['black', 'white']","['box', 'backpack']",in the street,a black box and a white backpack in the street.
+multi-color-2,"['blue', 'blue']","['hat', 'ball']",on the beach,a blue hat and a blue ball on the beach.
+multi-color-3,"['grey', 'red', 'black']","['book', 'box', 'cup']",on a wooden table,"a grey book, a red box, and a black cup on a wooden table."
+multi-color-2,"['brown', 'white']","['clock', 'teddy bear']",on the floor,a brown clock and a white teddy bear on the floor.
+multi-color-2,"['green', 'yellow']","['bottle', 'clock']",on a wooden table,a green bottle and a yellow clock on a wooden table.
+multi-color-2,"['yellow', 'pink']","['ball', 'cup']",in the forest,a yellow ball and a pink cup in the forest.
+multi-color-2,"['white', 'yellow']","['backpack', 'vase']",on the beach,a white backpack and a yellow vase on the beach.
+multi-color-3,"['brown', 'red', 'brown']","['backpack', 'hat', 'cake']",on the beach,"a brown backpack, a red hat, and a brown cake on the beach."
+multi-color-2,"['green', 'blue']","['backpack', 'lamp']",on a shelf,a green backpack and a blue lamp on a shelf.
+multi-color-3,"['grey', 'red', 'black']","['shoe', 'box', 'lamp']",on the floor,"a grey shoe, a red box, and a black lamp on the floor."
+multi-color-2,"['white', 'yellow']","['clock', 'ball']",in the street,a white clock and a yellow ball in the street.
+multi-color-2,"['yellow', 'grey']","['book', 'box']",in the forest,a yellow book and a grey box in the forest.
+multi-color-2,"['blue', 'grey']","['bottle', 'backpack']",on the floor,a blue bottle and a grey backpack on the floor.
+multi-color-2,"['orange', 'black']","['cake', 'flower']",on the ground,a orange cake and a black flower on the ground.
+multi-color-2,"['white', 'blue']","['vase', 'cake']",in the forest,a white vase and a blue cake in the forest.
+multi-color-3,"['blue', 'red', 'blue']","['flower', 'vase', 'clock']",on the beach,"a blue flower, a red vase, and a blue clock on the beach."
+multi-color-2,"['green', 'red']","['flower', 'apple']",in the street,a green flower and a red apple in the street.
+multi-color-2,"['brown', 'brown']","['hat', 'backpack']",in the forest,a brown hat and a brown backpack in the forest.
+multi-color-2,"['black', 'orange']","['cup', 'hat']",on a rock,a black cup and a orange hat on a rock.
+multi-color-2,"['grey', 'yellow']","['hat', 'vase']",in the street,a grey hat and a yellow vase in the street.
+multi-color-3,"['pink', 'brown', 'black']","['backpack', 'hat', 'clock']",on a wooden table,"a pink backpack, a brown hat, and a black clock on a wooden table."
+multi-color-2,"['white', 'red']","['cup', 'apple']",on the beach,a white cup and a red apple on the beach.
+multi-color-3,"['pink', 'yellow', 'blue']","['cake', 'vase', 'book']",on a wooden table,"a pink cake, a yellow vase, and a blue book on a wooden table."
+multi-color-2,"['white', 'green']","['clock', 'flower']",in the street,a white clock and a green flower in the street.
+multi-color-2,"['yellow', 'red']","['teddy bear', 'cup']",on the floor,a yellow teddy bear and a red cup on the floor.
+multi-color-2,"['white', 'red']","['flower', 'apple']",in a garden,a white flower and a red apple in a garden.
+multi-color-2,"['green', 'red']","['teddy bear', 'vase']",on a shelf,a green teddy bear and a red vase on a shelf.
+multi-color-3,"['yellow', 'blue', 'green']","['teddy bear', 'ball', 'shoe']",on the floor,"a yellow teddy bear, a blue ball, and a green shoe on the floor."
+multi-color-2,"['brown', 'green']","['teddy bear', 'book']",on a shelf,a brown teddy bear and a green book on a shelf.
+multi-color-2,"['green', 'brown']","['apple', 'teddy bear']",on the ground,a green apple and a brown teddy bear on the ground.
+multi-color-2,"['red', 'yellow']","['apple', 'cup']",on the beach,a red apple and a yellow cup on the beach.
+multi-color-2,"['brown', 'grey']","['vase', 'shoe']",on a rock,a brown vase and a grey shoe on a rock.
+multi-color-3,"['black', 'red', 'green']","['ball', 'apple', 'flower']",on the beach,"a black ball, a red apple, and a green flower on the beach."
+multi-color-2,"['orange', 'red']","['ball', 'cake']",on a rock,a orange ball and a red cake on a rock.
+multi-color-2,"['red', 'red']","['cake', 'book']",in the snow,a red cake and a red book in the snow.
+multi-color-2,"['brown', 'grey']","['bottle', 'ball']",in a garden,a brown bottle and a grey ball in a garden.
+multi-color-2,"['brown', 'green']","['backpack', 'teddy bear']",on a wooden table,a brown backpack and a green teddy bear on a wooden table.
+multi-color-2,"['grey', 'white']","['teddy bear', 'lamp']",in the snow,a grey teddy bear and a white lamp in the snow.

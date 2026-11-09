@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "model": "stabilityai/stable-diffusion-2-1",
+  "image_size": [
+    768,
+    768
+  ],
+  "latent_size": [
+    96,
+    96
+  ],
+  "color_patches": {
+    "red": "red_134",
+    "blue": "blue_121",
+    "yellow": "yellow_117",
+    "white": "white_115",
+    "orange": "orange_130"
+  },
+  "anchors": [
+    {
+      "x": 19,
+      "y": 21
+    },
+    {
+      "x": 52,
+      "y": 24
+    },
+    {
+      "x": 2,
+      "y": 58,
+      "flip_x": true,
+      "flip_y": true
+    },
+    {
+      "x": 36,
+      "y": 55
+    },
+    {
+      "x": 70,
+      "y": 59,
+      "flip_x": true
+    }
+  ],
+  "generation": {
+    "base_seed": 204,
+    "steps": 30,
+    "guidance": 7.5,
+    "negative_prompt": "deformed, low quality, low resolution"
+  },
+  "editing": {
+    "steps": 50,
+    "method": "npi",
+    "guidance": 7.6,
+    "preserve_steps": "all",
+    "reset_region": false,
+    "reset_seed": 118,
+    "pixel_preserve": true
+  }
+}

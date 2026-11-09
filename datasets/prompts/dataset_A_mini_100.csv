@@ -1,0 +1,101 @@
+type,color,object,scene,prompt
+single-color,black,lemon,on the ground,A black lemon on the ground.
+single-color,brown,crystal,in the forest,A brown crystal in the forest.
+single-color,white,coffee,on a wooden table,A white coffee on a wooden table.
+single-color,yellow,rock,on the floor,A yellow rock on the floor.
+single-color,red,snowflake,in the forest,A red snowflake in the forest.
+single-color,red,onion,on a rock,A red onion on a rock.
+single-color,white,mud,on a wooden table,A white mud on a wooden table.
+single-color,blue,lion,on the ground,A blue lion on the ground.
+single-color,red,lemon,on a shelf,A red lemon on a shelf.
+single-color,orange,hat,on a shelf,A orange hat on a shelf.
+single-color,red,onion,on a shelf,A red onion on a shelf.
+single-color,blue,lion,on a wooden table,A blue lion on a wooden table.
+single-color,white,mud,in the snow,A white mud in the snow.
+single-color,red,snowflake,on a shelf,A red snowflake on a shelf.
+single-color,grey,kiwi,in the street,A grey kiwi in the street.
+single-color,orange,dolphin,in the street,A orange dolphin in the street.
+single-color,pink,grape,in the street,A pink grape in the street.
+single-color,blue,lion,in the snow,A blue lion in the snow.
+single-color,red,onion,on a shelf,A red onion on a shelf.
+single-color,orange,apple,on the ground,A orange apple on the ground.
+single-color,black,ice cream,in the snow,A black ice cream in the snow.
+single-color,blue,apple,in the forest,A blue apple in the forest.
+single-color,pink,tree,in the forest,A pink tree in the forest.
+single-color,black,lemon,in a garden,A black lemon in a garden.
+single-color,green,brick,on a shelf,A green brick on a shelf.
+single-color,blue,apple,on a wooden table,A blue apple on a wooden table.
+single-color,black,onion,in the forest,A black onion in the forest.
+single-color,green,fan,on a wooden table,A green fan on a wooden table.
+single-color,black,ice cream,on the floor,A black ice cream on the floor.
+single-color,grey,sunflower,on the beach,A grey sunflower on the beach.
+single-color,pink,frog,in the snow,A pink frog in the snow.
+single-color,brown,snow,in a garden,A brown snow in a garden.
+single-color,red,onion,on a wooden table,A red onion on a wooden table.
+single-color,grey,peach,in a garden,A grey peach in a garden.
+single-color,blue,lion,on the ground,A blue lion on the ground.
+single-color,red,snowflake,in the forest,A red snowflake in the forest.
+single-color,white,orange,in the snow,A white orange in the snow.
+single-color,pink,pumpkin,in the snow,A pink pumpkin in the snow.
+single-color,green,fan,in a garden,A green fan in a garden.
+single-color,blue,egg,on the beach,A blue egg on the beach.
+single-color,yellow,rock,on the ground,A yellow rock on the ground.
+single-color,blue,carrot,on a shelf,A blue carrot on a shelf.
+single-color,orange,hat,on a shelf,A orange hat on a shelf.
+single-color,green,cake,on a rock,A green cake on a rock.
+single-color,grey,peach,in the forest,A grey peach in the forest.
+single-color,red,cloud,on a wooden table,A red cloud on a wooden table.
+single-color,black,pineapple,on the beach,A black pineapple on the beach.
+single-color,black,ice cream,in the forest,A black ice cream in the forest.
+single-color,red,ice cube,in a garden,A red ice cube in a garden.
+single-color,blue,lion,on the beach,A blue lion on the beach.
+single-color,white,orange,on a shelf,A white orange on a shelf.
+single-color,blue,apple,on a rock,A blue apple on a rock.
+single-color,black,ice cream,on the beach,A black ice cream on the beach.
+single-color,grey,kiwi,in the street,A grey kiwi in the street.
+single-color,red,lemon,on the ground,A red lemon on the ground.
+single-color,pink,grape,on a shelf,A pink grape on a shelf.
+single-color,brown,balloon,on the floor,A brown balloon on the floor.
+single-color,green,cake,in the street,A green cake in the street.
+single-color,orange,dolphin,on a shelf,A orange dolphin on a shelf.
+single-color,blue,lion,on a rock,A blue lion on a rock.
+single-color,brown,snow,on a wooden table,A brown snow on a wooden table.
+single-color,blue,carrot,in the street,A blue carrot in the street.
+single-color,white,mud,on a shelf,A white mud on a shelf.
+single-color,pink,pumpkin,in the snow,A pink pumpkin in the snow.
+single-color,grey,kiwi,on the ground,A grey kiwi on the ground.
+single-color,yellow,rock,on the floor,A yellow rock on the floor.
+single-color,blue,lion,in the forest,A blue lion in the forest.
+single-color,white,chocolate,in the street,A white chocolate in the street.
+single-color,white,mud,on a shelf,A white mud on a shelf.
+single-color,brown,flower,on the ground,A brown flower on the ground.
+single-color,pink,pumpkin,in the forest,A pink pumpkin in the forest.
+single-color,orange,dolphin,in the forest,A orange dolphin in the forest.
+single-color,red,zebra,in the snow,A red zebra in the snow.
+single-color,green,cake,on the beach,A green cake on the beach.
+single-color,orange,dolphin,on the ground,A orange dolphin on the ground.
+single-color,brown,flower,on a wooden table,A brown flower on a wooden table.
+single-color,blue,carrot,in the forest,A blue carrot in the forest.
+single-color,white,chocolate,on the beach,A white chocolate on the beach.
+single-color,green,book,on the beach,A green book on the beach.
+single-color,green,brick,on the beach,A green brick on the beach.
+single-color,brown,flower,in a garden,A brown flower in a garden.
+single-color,brown,balloon,on a shelf,A brown balloon on a shelf.
+single-color,green,fan,on the beach,A green fan on the beach.
+single-color,brown,snow,on the ground,A brown snow on the ground.
+single-color,black,ice cream,on a rock,A black ice cream on a rock.
+single-color,brown,snow,on a shelf,A brown snow on a shelf.
+single-color,brown,crystal,in the snow,A brown crystal in the snow.
+single-color,red,snowflake,on the floor,A red snowflake on the floor.
+single-color,blue,banana,on the beach,A blue banana on the beach.
+single-color,grey,bird,in a garden,A grey bird in a garden.
+single-color,green,book,on the beach,A green book on the beach.
+single-color,yellow,dog,in the forest,A yellow dog in the forest.
+single-color,blue,apple,on the floor,A blue apple on the floor.
+single-color,white,chocolate,on the floor,A white chocolate on the floor.
+single-color,black,ice cream,on a wooden table,A black ice cream on a wooden table.
+single-color,white,mud,on a wooden table,A white mud on a wooden table.
+single-color,yellow,rock,in the street,A yellow rock in the street.
+single-color,black,onion,on the ground,A black onion on the ground.
+single-color,yellow,shoe,in the forest,A yellow shoe in the forest.
+single-color,green,cake,on the ground,A green cake on the ground.
